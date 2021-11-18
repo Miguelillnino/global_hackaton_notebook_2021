@@ -13,3 +13,13 @@
 - Hydrogen bonds
 - Ionic and aromatic (partial)
 - Cation-π.Peptide bond
+
+## Graph network methodology
+Graph network of 1Plxa. Each edge corresponds to one of the following biochemical interactions:
+
+*   Hydrophobic 
+*   Disulfide (bridnge) 
+*   Hydrogen bonds
+*   Ionic and aromatic (partial)
+*   Cation-$\pi$ 
+*   Peptide bond
