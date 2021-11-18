@@ -31,12 +31,15 @@ Graph network of 1Plxa. Each edge corresponds to one of the following biochemica
 First we represent Amino Acids asnodes of graph network. Then we perform its graph reduction.
 ### Classic solution
 We implement a classical solution using the algorithm travelingsalesman as an NP-complete problem. for protein folding problembased on a protein network graph to find bounding amino acids, themain objective is to find the nodes with more interactions orweights (proteins with more connections)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55018955/142354325-171d2367-9de1-4a68-afed-4092a29a2bc2.png" alt="Formula"/>
+  </p>
 
 ### Brute force Approach 
 
 
 ### Quantum Computing Approach
 Protein folding problem base on the travelling salesman.
-### Quadratic program to QUBO
-In this case we need to maximize the cost function:
-## Running on a Quantum Computer
+\begin{equation}
+C(\textbf{x})=\sum_{i,j}w_{ij}\sum_{p} x_{i,p}x_{j,p+1}+ A\sum_p\left(1- \sum_i x_{i,p}\right)^2+A\sum_i\left(1- \sum_p x_{i,p}\right)^2,
+\end{equation}
