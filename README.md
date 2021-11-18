@@ -37,6 +37,6 @@ We implement a classical solution using the algorithm travelingsalesman as an NP
 
 ### Quantum Computing Approach
 Protein folding problem base on the travelling salesman.
-\begin{equation}
-C(\textbf{x})=\sum_{i,j}w_{ij}\sum_{p} x_{i,p}x_{j,p+1}+ A\sum_p\left(1- \sum_i x_{i,p}\right)^2+A\sum_i\left(1- \sum_p x_{i,p}\right)^2,
-\end{equation}
+### Quadratic program to QUBO
+In this case we need to maximize the cost function:
+## Running on a Quantum Computer
