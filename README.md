@@ -18,8 +18,11 @@
 Graph network of 1Plxa. Each edge corresponds to one of the following biochemical interactions:
 
 *   Hydrophobic 
-*   Disulfide (bridnge) 
+*   Disulfide (bridnge)
 *   Hydrogen bonds
 *   Ionic and aromatic (partial)
-*   Cation-$\pi$ 
+*   Cation 
 *   Peptide bond
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55018955/142352830-bd68821f-3e7a-44b8-80fa-3adfcd642b8f.png" alt="Formula"/>
+  </p>
