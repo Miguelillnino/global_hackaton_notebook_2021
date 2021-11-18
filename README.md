@@ -32,7 +32,7 @@ First we represent Amino Acids asnodes of graph network. Then we perform its gra
 ### Classic solution
 We implement a classical solution using the algorithm travelingsalesman as an NP-complete problem. for protein folding problembased on a protein network graph to find bounding amino acids, themain objective is to find the nodes with more interactions orweights (proteins with more connections)
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55018955/142354325-171d2367-9de1-4a68-afed-4092a29a2bc2.png" alt="Formula"/>
+  <img src="https://user-images.githubusercontent.com/55018955/142354325-171d2367-9de1-4a68-afed-4092a29a2bc2.png" alt="Formula" width="200"/>
   </p>
 
 ### Brute force Approach 
