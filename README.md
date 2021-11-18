@@ -8,7 +8,7 @@
 - To encourage people to push into quantum computing and solve real molecular biology problems faster than classical methods.
 
 
-### With nnumber of atoms in the molecule (YA., A., and HA, 2006).
+### With number of atoms in the molecule (YA., A., and HA, 2006).
 - Hydrophobic.Disulfide (bridnge)
 - Hydrogen bonds
 - Ionic and aromatic (partial)
@@ -26,3 +26,4 @@ Graph network of 1Plxa. Each edge corresponds to one of the following biochemica
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55018955/142352830-bd68821f-3e7a-44b8-80fa-3adfcd642b8f.png" alt="Formula"/>
   </p>
+First we represent Amino Acids asnodes of graphnetwork.Then we perform its graph reduction.
