@@ -8,7 +8,7 @@
 - To encourage people to push into quantum computing and solve real molecular biology problems faster than classical methods.
 
 
-Withnnumber of atoms in the molecule (YA., A., and HA, 2006).
+### With nnumber of atoms in the molecule (YA., A., and HA, 2006).
 - Hydrophobic.Disulfide (bridnge)
 - Hydrogen bonds
 - Ionic and aromatic (partial)
