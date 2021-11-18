@@ -6,3 +6,10 @@
 - To apply quantum circuits used in graph theory and optimization problems to map 3D-protein structure into chemical interaction network.
 - Using the QAOA variational form to find an approximate solution for the protein folding quadratic program.
 - To encourage people to push into quantum computing and solve real molecular biology problems faster than classical methods.
+
+
+Withnnumber of atoms in the molecule (YA., A., and HA, 2006).
+- Hydrophobic.Disulfide (bridnge)
+- Hydrogen bonds
+- Ionic and aromatic (partial)
+- Cation-π.Peptide bond
