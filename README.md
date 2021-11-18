@@ -28,4 +28,12 @@ Graph network of 1Plxa. Each edge corresponds to one of the following biochemica
   </p>
   
   
-First we represent Amino Acids asnodes of graphnetwork. Then we perform its graph reduction.
+First we represent Amino Acids asnodes of graph network. Then we perform its graph reduction.
+### Classic solution
+We implement a classical solution using the algorithm travelingsalesman as an NP-complete problem. for protein folding problembased on a protein network graph to find bounding amino acids, themain objective is to find the nodes with more interactions orweights (proteins with more connections)
+
+### Brute force Approach 
+
+
+### Quantum Computing Approach
+Protein folding problem base on the travelling salesman.
