@@ -26,4 +26,6 @@ Graph network of 1Plxa. Each edge corresponds to one of the following biochemica
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55018955/142352830-bd68821f-3e7a-44b8-80fa-3adfcd642b8f.png" alt="Formula"/>
   </p>
-First we represent Amino Acids asnodes of graphnetwork.Then we perform its graph reduction.
+  
+  
+First we represent Amino Acids asnodes of graphnetwork. Then we perform its graph reduction.
